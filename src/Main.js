@@ -6,6 +6,8 @@ import { Box, createTheme, Stack, ThemeProvider } from "@mui/material";
 import Navbar from "./Components/Navbar";
 import Add from "./Components/Add";
 
+// for the git branch firstbranch01 baby
+
 function Main() {
   const [themeMode, setThemeMode] = useState("light");
 
